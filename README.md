@@ -35,6 +35,6 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 - Leads case study.pdf - Subjective questions word file
 - Leads scoring case study - Presentation pdf
 - Leads_CaseStudy.ipynb - Python commented file
-- 
+- Summary - Lead scoring case study
 
 ### Case study group: Pranjal Satish Tikande, Chaman Jha, Alistair Dsilva
